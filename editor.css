@@ -1,0 +1,52 @@
+.teks2{
+    margin-left: 10%;
+    margin-rigth: 10%;
+    word-wrap: break-word;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.teks1{
+    margin: auto;
+    justify-content: center;
+    word-wrap: break-word;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.row1{
+    margin-top: 2%;
+}
+
+.teks5{
+    margin-top: 5%;
+    word-wrap: break-word;
+    justify-content: center;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.but1{
+    justify-content: center;
+    text-align: center;
+}
+
+.but2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 90%;
+}
+
+.but3{
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+@media screen and (max-width: 767px) {
+    .img1{
+        width: 50%;
+        height: 50%;
+    }
+
+}

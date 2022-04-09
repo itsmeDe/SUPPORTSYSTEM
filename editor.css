@@ -14,6 +14,16 @@
     text-decoration: solid;
 }
 
+.teks9{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+    word-wrap: break-word;
+    text-align: center;
+    text-decoration: solid;
+}
+
 .row1{
     margin-top: 2%;
 }
